@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctor strange",
+      "other": "no-show",
+      "day": "monday",
+      "reminder": true
+    },
+    {
+      "text": "batman",
+      "day": "Wednesday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Mr. robot",
+      "day": "Thursday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "buys 2",
+      "day": "next week",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
