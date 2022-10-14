@@ -1,3 +1,29 @@
+#Task Tracker with react
+
+# Introduction
+
+A Simple app to target your task and set reminder with days so on . and is built using the react, it's beginner friendly app with just UI components and simple local storage using json server
+
+---
+
+> Be sure to add that lovely star 😀 and fork it for your own copy
+
+## Optimizations
+
+i will add database to store tasks and track all change either have login and sign up with authentication, and also add complete tracker with add rate this task, maybe add delay or not now.
+
+## More To See
+
+if you interest in this i have couple project that i work on
+
+** money where goes ** https://github.com/adilth/Where-money-goes
+
+** Menu Tacker ** https://github.com/adilth/food-menu-tracking
+
+** juegosRancheros ** https://github.com/adilth/juegosRancheros
+
+and here my portfolio https://adilth.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
