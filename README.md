@@ -16,13 +16,13 @@ i will add database to store tasks and track all change either have login and si
 
 if you interest in this i have couple project that i work on
 
-** money where goes ** https://github.com/adilth/Where-money-goes
+**money where goes** https://github.com/adilth/Where-money-goes
 
-** Menu Tacker ** https://github.com/adilth/food-menu-tracking
+**Menu Tacker** https://github.com/adilth/food-menu-tracking
 
-** juegosRancheros ** https://github.com/adilth/juegosRancheros
+**juegosRancheros** https://github.com/adilth/juegosRancheros
 
-and here my portfolio https://adilth.netlify.app/
+**and here my portfolio** https://adilth.netlify.app/
 
 # Getting Started with Create React App
 
